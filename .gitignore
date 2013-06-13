@@ -1,6 +1,10 @@
-*.class
+### ignore list
+.classpath
+.idea
+.project
+.settings
+.springBeans
+hhi.iml
 
-# Package Files #
-*.jar
-*.war
-*.ear
+bin
+target
